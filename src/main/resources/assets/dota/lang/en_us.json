@@ -1,0 +1,32 @@
+
+{
+  "itemGroup.Flover_Tab_Items": "Flovers Item",
+  "itemGroup.Flover_Tab_block": "Flovers Block",
+
+
+  "biomes.dota.FlowerBiomes": "FlowerBiomes",
+
+
+  "block.dota.heather_block":"Heather",
+  "block.dota.violet_block":"Violet",
+  "block.dota.lavender_block":"Lavender",
+  "block.dota.flycatcher_block":"Flycatcher",
+  "block.dota.cornflower_block":"Cornflower",
+  "block.dota.dandelion_block":"Dandelion",
+
+
+  "item.dota.flover_sword":"Flover sword",
+  "item.dota.heather":"Heather",
+  "item.dota.violet":"Violet",
+  "item.dota.lavender":"Lavender",
+  "item.dota.flycatcher":"Flycatcher",
+  "item.dota.cornflower":"Cornflower",
+  "item.dota.dandelion_block":"Dandelion",
+
+
+  "item.dota.sickle":"Sickle",
+  "item.dota.violet_seed":"Violet seed",
+  "item.dota.lavender_seed":"Lavender seed",
+  "item.dota.heather_seed":"Flycatcher seed"
+}
+

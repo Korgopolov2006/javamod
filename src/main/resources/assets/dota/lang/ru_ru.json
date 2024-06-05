@@ -1,0 +1,31 @@
+{
+  "itemGroup.Flover_Tab_Items": "Цвяточки предметы",
+  "itemGroup.Flover_Tab_block": "Цвяточки блоки",
+
+
+  "biomes.dota.FlowerBiomes": "Цвяточный биомчик",
+
+
+  "block.dota.heather_block":"Вереск",
+  "block.dota.violet_block":"Фиалка",
+  "block.dota.lavender_block":"Лаванда",
+  "block.dota.flycatcher_block":"Мухаловка",
+  "block.dota.cornflower_block":"Василек",
+  "block.dota.dandelion_block":"Одуванчик",
+
+
+  "item.dota.heather":"Heather",
+  "item.dota.violet":"Violet",
+  "item.dota.lavender":"Lavender",
+  "item.dota.flycatcher":"Flycatcher",
+  "item.dota.cornflower":"Василек",
+  "item.dota.dandelion_block":"Одуванчик",
+
+
+
+  "item.dota.flover_sword":"Цветочный меч",
+  "item.dota.sickle":"Серп",
+  "item.dota.violet_seed":"Семя фиалки",
+  "item.dota.lavender_seed":"Семя лаванды",
+  "item.dota.heather_seed":"Семя вереска"
+}

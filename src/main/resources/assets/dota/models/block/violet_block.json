@@ -1,0 +1,5 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "dota:block/violet_block"}
+}
